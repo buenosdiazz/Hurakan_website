@@ -223,7 +223,8 @@ a {
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
-  font-family: "Anton", sans-serif; }
+  font-family: aileron, sans-serif;
+font-weight: 900; }
 
 .border-2 {
   border-width: 2px; }
@@ -471,7 +472,8 @@ h1, h2, h3, h4, h5,
     margin: 0;
     padding: 0;
     z-index: 3;
-    font-family: "Anton", sans-serif;
+    font-family: aileron, sans-serif;
+font-weight: 700;
     letter-spacing: .2rem; }
     @media (max-width: 991.98px) {
       .site-navbar .site-logo {
@@ -835,9 +837,10 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .intro-engage > div h2 {
     color: #fff;
-    font-family: "Anton", sans-serif;
+    font-family: aileron, sans-serif;
+font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: .1rem; }
+    letter-spacing: .2rem; }
   .intro-engage > div p {
     color: rgba(255, 255, 255, 0.5); }
   .intro-engage > div:before {
@@ -899,7 +902,8 @@ h1, h2, h3, h4, h5,
     position: relative;
     padding-bottom: 20px;
     margin-bottom: 20px;
-    font-family: "Anton", sans-serif; }
+    font-family: aileron, sans-serif;
+font-weight: 700; }
     .block-counter-1 .number:after {
       position: absolute;
       content: "";
