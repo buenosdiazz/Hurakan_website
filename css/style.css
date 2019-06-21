@@ -221,10 +221,12 @@ a {
   a:hover {
     text-decoration: none; }
 
+
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   font-family: aileron, sans-serif;
 font-weight: 900; }
+
 
 .border-2 {
   border-width: 2px; }
@@ -832,10 +834,15 @@ font-weight: 700;
 .slide-one-item .owl-nav .owl-next {
   right: 20px; }
 
+  h2 {
+  font-size: 4em;
+  }
+
 .intro-engage > div {
   padding: 50px;
   position: relative; }
   .intro-engage > div h2 {
+    font-size: 2em;
     color: #fff;
     font-family: aileron, sans-serif;
 font-weight: 900;
